@@ -1,7 +1,7 @@
 # TypescriptTutorial
 Typescript short tutorial project
 ### Features implementation:
-1. Variables & datatypes
+1. Variables & Datatypes
 2. Loops & Conditionals
 3. Classes & Access Modifier & Accessor
 4. Constructor parameter & Import/Export
